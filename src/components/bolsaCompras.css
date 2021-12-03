@@ -1,0 +1,8 @@
+.bolsaCompras {
+    position: fixed ;
+    right: 0;
+    width: 450px;
+    top: 50px;
+    background-color: rgb(241, 243, 198);
+    padding: 50px;
+}

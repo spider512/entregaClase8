@@ -1,0 +1,4 @@
+.elementos {
+    border: cadetblue solid 5px;
+    flex-grow: inherit;
+}
